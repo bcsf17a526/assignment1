@@ -9,8 +9,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="NOW FONT SIZE IS BIGGER"
-        android:textSize="24sp"
+        android:text="Abdullah islam"
+        android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -22,7 +22,8 @@
         android:layout_height="wrap_content"
         android:text="CLICK HERE"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="464dp" />
+        tools:layout_editor_absoluteY="578dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
